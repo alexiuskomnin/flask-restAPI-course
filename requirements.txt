@@ -25,4 +25,4 @@ typing_extensions==4.1.1
 Werkzeug==2.0.0
 wrapt==1.14.0
 zipp==3.7.0
-uswgi
+uwsgi
